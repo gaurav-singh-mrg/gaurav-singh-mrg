@@ -1,7 +1,7 @@
 # 💫 About Me:
-🔭 I am an Application developer specialising in the app development arena. For the last 3 years, I have been developing application using Python ,Django, SQL Server, and C++ .
-I’m currently employed as Application developer at CoreCard India. I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems.
-<br>🌱 I’m currently learning React, Unity, Swift<br>
+🔭 I am an Software Engineer specialising in the app development arena. For the last 4+ years, I have been developing application using Python ,Django, SQL Server, and C++ .
+I’m currently employed at Programmers.io . I’m hands on in all stages of the software development cycle, from planning and design to testing and deployment. No two days are the same for me; my tasks may involve analysing algorithms, altering code, fixing bugs, brainstorming ideas or integrating new systems.
+<br>🌱
 
 
 ## 🌐 Socials:
