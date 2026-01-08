@@ -57,18 +57,10 @@ I am a **Senior Software Engineer** with **6+ years** of hands-on experience cra
 
 #### 🔷 Distributed Systems & Microservices
 * **Quantum Fabric:** Architected a decentralized supply chain platform using a dual-database strategy (**Neo4j** for graph relationships + **PostgreSQL** for operations). Designed a modular ecosystem of Orchestration and Entity-Peer services.
-
-
-[Image of Microservices vs Monolith Architecture]
-
 * **Multiservice Transitions:** Led the modernization of legacy monoliths into high-performance **Multiservice Architectures**, integrating **RabbitMQ** and **Celery** for reliable task distribution.
 
 #### 🔷 Data Engineering & Pipeline Optimization
 * **Patient Finance Platform:** Built a cloud-native pipeline using **BigQuery, Airflow, and DBT**. Optimized SQL execution to achieve sub-2-second dashboard load times for 95% of queries.
-
-
-[Image of a data pipeline architecture]
-
 * **Web Data Extraction Engine:** Engineered a scalable RESTful API with **Python Multiprocessing** and a custom watchdog mechanism to handle intensive scraping workloads without memory leaks.
 
 #### 🔷 Performance Engineering
@@ -82,7 +74,7 @@ I am a **Senior Software Engineer** with **6+ years** of hands-on experience cra
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h4>🚀 Backend & Frameworks</h4>
+      <h4>🚀 Backend & Orchestration</h4>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
       <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
@@ -116,16 +108,6 @@ I am a **Senior Software Engineer** with **6+ years** of hands-on experience cra
     </td>
   </tr>
 </table>
-
----
-
-### 📊 GitHub Ecosystem
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gaurav-singh-mrg&show_icons=true&theme=radical&rank_icon=github&border_radius=10&count_private=true" alt="Gaurav's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-singh-mrg&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
-</div>
 
 ---
 
