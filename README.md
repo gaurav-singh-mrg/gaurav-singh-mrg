@@ -3,7 +3,7 @@
 # 💫 Hi there, I'm Gaurav Singh! 
 ### Senior Software Engineer | Backend & Data Enthusiast
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=6%2B+Years+of+Experience;Python+%26+Django+Specialist;Data+Engineering+%26+Backend+Architecture)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=6%2B+Years+of+Experience;Backend+Architecture;Data+Engineering)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://linkedin.com/in/gaurav-kumar-mrg">
@@ -88,9 +88,9 @@ I am a **Software Engineer** specializing in the app development arena with **6+
 ### 📊 GitHub Stats
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gaurav_singh_mrg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=gaurav-singh-mrg&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
 <br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav_singh_mrg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-singh-mrg&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 
 </div>
 
